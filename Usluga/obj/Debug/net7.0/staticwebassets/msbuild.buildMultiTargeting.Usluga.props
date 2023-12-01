@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Usluga.props" />
+</Project>
