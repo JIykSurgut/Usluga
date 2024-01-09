@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Usluga.Areas.Identity;
 using Usluga.Data;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
